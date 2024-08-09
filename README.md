@@ -1,5 +1,8 @@
-<h1 align="center">Paste</h1>
-<p align="center">Paste is a design system used to build accessible, consistent, and high quality customer experiences at Twilio. Paste is open source and contributions are welcome.</p>
+<a  href="https://www.connieconnect.com">
+<img  src="https://i.postimg.cc/MGd7M6Cp/connie-logo-white-thin-deja-Vu-Sans.png"  alt="Connie SaaS For Nonprofits"  width="250"  />
+</a>
+<h1 align="center">Connie Plus</h1>
+<p align="center">Plus is a design system used to build accessible, consistent, and high quality customer experiences at Connie. Connie plus is a fork of the twilio labs paste repo which is open source and contributions are welcome.</p>
 <p align="center">
 <a href="https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md"><img alt="Code of Conduct" src="https://img.shields.io/badge/%F0%9F%92%96-Code%20of%20Conduct-blueviolet.svg?style=flat-square"></a>
 <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
